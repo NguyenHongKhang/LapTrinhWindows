@@ -1,0 +1,40 @@
+                     Cafe                     
+
+Mã nhân viên     : NV004
+
+Tên nhân viên    : Nguyễn Hồng Khang
+
+Mã hóa đơn       : HD062
+
+Mã khách hàng    : KH001
+
+Tên khách hàng   : Nguyễn Hoàng Khánh
+
+--------------------------------------------------
+
+Tên món               Số lượng       Thành tiền
+
+Trà Vải             |    1      |     15000
+
+--------------------------------------------------
+
+Tạm tính                           15000
+
+Giảm giá                              0%
+
+Tổng tiền                          15000
+
+Số tiền khách trả                5000001
+
+Số tiền thối lại                 4985001
+
+--------------------------------------------------
+
+Thời gian           20/08/2023 08:49:37
+
+Tên chủ shop        Nguyễn Hồng Khang
+
+Địa chỉ                 Thành Phố HCM
+
+Số điện thoại liên hệ       0398420905
+

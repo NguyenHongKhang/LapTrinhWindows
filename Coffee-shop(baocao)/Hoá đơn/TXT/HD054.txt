@@ -1,0 +1,40 @@
+                     Cafe                     
+
+Mã nhân viên     : NV004
+
+Tên nhân viên    : Nguyễn Hồng Khang
+
+Mã hóa đơn       : HD054
+
+Mã khách hàng    : KH002
+
+Tên khách hàng   : Ngô Hoàng Khang
+
+--------------------------------------------------
+
+Tên món               Số lượng       Thành tiền
+
+Trà sữa khoai môn   |    1      |     30000
+
+--------------------------------------------------
+
+Tạm tính                           30000
+
+Giảm giá                              0%
+
+Tổng tiền                          30000
+
+Số tiền khách trả                  30000
+
+Số tiền thối lại                       0
+
+--------------------------------------------------
+
+Thời gian           19/08/2023 23:28:42
+
+Tên chủ shop        Nguyễn Hồng Khang
+
+Địa chỉ                 Thành Phố HCM
+
+Số điện thoại liên hệ       0398420905
+
